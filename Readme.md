@@ -1,4 +1,4 @@
-# Live-Project-Seven
+# Live-Project-Eight
 
 # Assignment 8
 
@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Sana--Quazi-lightgrey)
 
-## Project 8 [Live Link]()
+## Project 8 [Live Link](https://live-class-project-eight.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned how we can center any svgs, images as background by using **background-position** & **background-repeat**.
