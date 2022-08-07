@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Sana--Quazi-lightgrey)
 
-## Project 14 [Live Link]()
+## Project 14 [Live Link](https://live-class-project-fourteen.netlify.app/)
 
 -   Skills Gained in this project
     -   Since this project is heavily based on positioning,
