@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Sana--Quazi-lightgrey)
 
-## Project 12 [Live Link]()
+## Project 12 [Live Link](https://js-live-project-twelve.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned to create complex footer section.
